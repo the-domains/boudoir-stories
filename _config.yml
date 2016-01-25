@@ -1,6 +1,6 @@
 name: Boudoir Stories
 favicon: null
-layout_spectrum: 0.9136961137410253
+layout_spectrum: 1
 typography_spectrum: 0.9604611080139875
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#000000'
     - '#868686'
     - '#515151'
-  brandStrength: 0.625
+  brandStrength: 0
   lightness: 0.25
   saturation: 0.75
   rhythmicContrast: 0.75
