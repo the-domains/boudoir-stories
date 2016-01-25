@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Boudoir Stories]]></title>
         <description><![CDATA[Boudoir Stories]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boudoir-stories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 19:41:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 19:51:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boudoir-stories/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0eb93817-7860-43cb-930b-35274ab10e04.jpg">]]></description>
-            <link>undefinedbd94c1b9-ff4d-475f-9787-dc904c6aed28/index.html</link>
+            <link>https://thegrid.ai/boudoir-stories/bd94c1b9-ff4d-475f-9787-dc904c6aed28/index.html</link>
             <guid isPermaLink="false">bd94c1b9-ff4d-475f-9787-dc904c6aed28</guid>
-            <pubDate>Mon, 25 Jan 2016 19:41:45 GMT</pubDate>
+            <pubDate>Mon, 25 Jan 2016 19:51:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
